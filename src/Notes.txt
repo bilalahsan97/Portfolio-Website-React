@@ -1,0 +1,4 @@
+REV. 1.2 NOTES
+Finished updating the Navbar component.
+Updated the Mobile Menu styling and made the FaBars button functional.
+Conditionally rendered the Mobile Menu.
