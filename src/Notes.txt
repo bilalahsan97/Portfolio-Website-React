@@ -2,3 +2,7 @@ REV. 1.2 NOTES
 Finished updating the Navbar component.
 Updated the Mobile Menu styling and made the FaBars button functional.
 Conditionally rendered the Mobile Menu.
+
+REV. 1.3 NOTES
+Social Icons Menu added as part of the Navbar component.
+Home component added and defined with background color.
