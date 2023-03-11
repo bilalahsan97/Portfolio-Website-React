@@ -6,3 +6,8 @@ Conditionally rendered the Mobile Menu.
 REV. 1.3 NOTES
 Social Icons Menu added as part of the Navbar component.
 Home component added and defined with background color.
+
+REV. 1.4 NOTES
+Home component stylised and added with introduction.
+View Work button added, stylised and hover fustionality added.
+Social icons menu was clashing with home elements, this bug was fixed.
