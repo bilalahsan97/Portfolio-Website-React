@@ -1,13 +1,19 @@
 REV. 1.2 NOTES
-Finished updating the Navbar component.
-Updated the Mobile Menu styling and made the FaBars button functional.
-Conditionally rendered the Mobile Menu.
+    Finished updating the Navbar component.
+    Updated the Mobile Menu styling and made the FaBars button functional.
+    Conditionally rendered the Mobile Menu.
 
 REV. 1.3 NOTES
-Social Icons Menu added as part of the Navbar component.
-Home component added and defined with background color.
+    Social Icons Menu added as part of the Navbar component.
+    Home component added and defined with background color.
 
 REV. 1.4 NOTES
-Home component stylised and added with introduction.
-View Work button added, stylised and hover fustionality added.
-Social icons menu was clashing with home elements, this bug was fixed.
+    Home component stylised and added with introduction.
+    View Work button added, stylised and hover fustionality added.
+    Social icons menu was clashing with home elements, this bug was fixed.
+
+REV 1.5 NOTES
+    About section created.
+    Skills section created.
+    Work section Created.
+    Home section breif updated.
