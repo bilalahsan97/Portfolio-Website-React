@@ -1,4 +1,5 @@
 import React from 'react'
+import CalculatorImg from '../assets/calculator_2.JPG'
 
 const Work = () => {
   return (
@@ -9,18 +10,47 @@ const Work = () => {
                 <p className='py-6'>//Check out some of my projects.</p>
             </div>
 
+            {/* Container */}
             <div className='grid sm:grid-cols-2 md:grid-cols-3 gap-4'>
-                <div className='shadow-lg shadow-[#040c16] group container rounded-md fex justify-center items-center mx-auto content-div'>
-                    <div>
-                        <span>
 
+                {/* Grid Item  #1*/}
+                <div 
+                style={{backgroundImage: `url(${CalculatorImg})`}} 
+                className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
+                    
+                    {/* Hover effects */}
+                    <div className='opacity-0 group-hover:opacity-100'>
+                        <span className='flex text-center text-2xl font-bold text-white tracking-wider'>
+                        Calculator Application using HTML, CSS & JavaScript
                         </span>
-                        <div>
+                        <div className='pt-20 text-center'>
                             <a href="/">
-                                <button></button>
+                                <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
                             </a>
+                            <a href="https://github.com/bilalahsan97/Calculator-Project" target="_blank">
+                                <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
+                            </a>
+                                
+                        </div>
+                    </div>
+                </div>
+
+                 {/* Grid Item  #2*/}   
+                <div 
+                style={{backgroundImage: `url(${CalculatorImg})`}} 
+                className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
+                    
+                    {/* Hover effects */}
+                    <div className='opacity-0 group-hover:opacity-100'>
+                        <span className='flex text-center text-2xl font-bold text-white tracking-wider'>
+                        Calculator Application using HTML, CSS & JavaScript
+                        </span>
+                        <div className='pt-20 text-center'>
                             <a href="/">
-                                <button></button>
+                                <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
+                            </a>
+                            <a href="https://github.com/bilalahsan97/Calculator-Project" target="_blank">
+                                <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
                             </a>
                                 
                         </div>

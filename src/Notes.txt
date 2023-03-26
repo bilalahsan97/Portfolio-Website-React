@@ -17,3 +17,7 @@ REV 1.5 NOTES
     Skills section created.
     Work section Created.
     Home section breif updated.
+
+REV 1.6 NOTES
+    Home section breif updated.
+    Work Section Created and first project displayed.
