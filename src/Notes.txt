@@ -21,3 +21,12 @@ REV 1.5 NOTES
 REV 1.6 NOTES
     Home section breif updated.
     Work Section Created and first project displayed.
+
+REV 1.7 NOTES
+    Projects grid layout updated. 
+    Color Scheme updated, color-gradient for content div updated.
+    Contact Section added.
+    Button functionality added.
+    Linkedin and Github Links added.
+    Resume download added to button.
+    Overall layout cleaned up.
